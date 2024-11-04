@@ -1,11 +1,10 @@
-
 <h1 align="center">Welcome</h1>
 
 <h2 align="left">About</h2>
 
 ###
 
-<p align="left"🔭 <br>📚 Science Computer<br> 💻 Backend Developer<br> 🎲 Data Engineering <br>🔭 "Weniger Aber Besser"</p>
+<p align="left"🔭 <br>📚 Science Computer<br>  🎲 Data Engineering <br>🔭 "Weniger Aber Besser"</p>
 
 ###
 
@@ -14,9 +13,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"alt="python logo"  />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"alt=".net logo"  />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"alt="R logo"  />
 </div>
 
