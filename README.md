@@ -5,8 +5,7 @@
 ## Sobre
 - Engenheiro e Analista de Dados
 - Formado em Ciência da Computação
-- Apaixonado por negócios e estatísticas
-- Assíduo no futebol mundial
+- Profissional em negócios e estatística
 
 ## Tecnologias
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
