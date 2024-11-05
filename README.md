@@ -1,63 +1,38 @@
-<h1 align="center">Welcome</h1>
+## 👋 Olá amigo, seja bem vindo ao meu GitHub
 
-<h2 align="left">About</h2>
+- Meu nome é Arthur Almeida, tenho 23 anos e sou da Paraíba, Brasil 🇧🇷
 
-###
+## Sobre
+- Engenheiro e Analista de Dados
+- Formado em Ciência da Computação
+- Apaixonado por negócios e estatísticas
+- Assíduo no futebol mundial
 
-<p align="left"🔭 <br>📚 Science Computer<br>  🎲 Data Engineering <br>🔭 "Weniger Aber Besser"</p>
+## Tecnologias
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![r](https://img.shields.io/badge/-r-0D1117?style=for-the-badge&logo=r&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-###
+## Banco de Dados
+![postgresql](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![oracle](https://img.shields.io/badge/-oracle_developer-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<h2 align="left">Programming</h2>
 
-###
+## Cloud
+![amazonwebservices](https://img.shields.io/badge/-aws-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"alt="python logo"  />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"alt="R logo"  />
-</div>
+## Ferramentas
+![snowflake](https://img.shields.io/badge/-snowflake-0D1117?style=for-the-badge&logo=snowflake&labelColor=0D1117&textColor=0D1117)&nbsp;
+![dbt](https://img.shields.io/badge/-dbt-0D1117?style=for-the-badge&logo=dbt&labelColor=0D1117&textColor=0D1117)&nbsp;
+![apachespark](https://img.shields.io/badge/-apache_spark-0D1117?style=for-the-badge&logo=apachespark&labelColor=0D1117&textColor=0D1117)&nbsp;
+![apacheairflow](https://img.shields.io/badge/-apache_airflow-0D1117?style=for-the-badge&logo=apacheairflow&labelColor=0D1117&textColor=0D1117)&nbsp;
+![databricks](https://img.shields.io/badge/-databricks-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117&textColor=0D1117)&nbsp;
+![anaconda](https://img.shields.io/badge/-anaconda-0D1117?style=for-the-badge&logo=anaconda&labelColor=0D1117&textColor=0D1117)&nbsp;
+![oracle](https://img.shields.io/badge/-oracle_integrator_data-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-###
 
-<h2 align="left">Database</h2>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"  alt="mysql"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"  alt="postgresql"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="SQL Oracle"/>
-</div>
-
-###
-
-<div align="left">
-  <h2 align="left">Cloud</h2>
-  
-
-###
-
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" />
-</div>
-
-###
-
-<h2 align="left">Other</h2>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github logo"  />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux logo"  />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode logo"  />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm"  />
-</div>
-
-###
-
-<h2 align="left">Contacts</h2>
+<h2 align="left">Contatos</h2>
 
 ###
 
