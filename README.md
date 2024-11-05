@@ -3,7 +3,7 @@
 - Meu nome é Arthur Almeida, tenho 23 anos e sou da Paraíba, Brasil 🇧🇷
 
 ## Sobre
-- Engenheiro de Ddados e Analista de Business Intelligence
+- Engenheiro de Dados e Analista de Business Intelligence
 - Formado em Ciência da Computação
 - Profissional em negócios e estatística
 
