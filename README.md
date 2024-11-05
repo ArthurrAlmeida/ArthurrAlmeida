@@ -48,6 +48,6 @@
 
 <div>
   <a href="https://github.com/ArthurrAlmeida">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArthurrAlmeida&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurrAlmeida&layout=compact&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArthurAlmeida&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAlmeida&layout=compact&theme=dark"/>
 </div>
