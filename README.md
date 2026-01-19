@@ -1,52 +1,68 @@
-## 👋 Olá amigo, seja bem vindo ao meu GitHub
+# 👨🏻‍💻 Arthur Almeida
 
-- Meu nome é Arthur Almeida, tenho 23 anos e sou da Paraíba, Brasil 🇧🇷
+**`Engenheiro de Dados Azure | Professor`**
 
-## Sobre
-- Engenheiro de Dados e Analista de Business Intelligence
-- Formado em Ciência da Computação
-- Profissional em negócios e estatística
+### 👋 Sobre Mim
 
-## Tecnologias
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![r](https://img.shields.io/badge/-r-0D1117?style=for-the-badge&logo=r&labelColor=0D1117&textColor=0D1117)&nbsp;
+Sou **Engenheiro de Dados** focado no ecossistema **Microsoft Azure** e **Databricks**, e atuo também como **Professor Universitário** na área de Computação em Nuvem.
 
-## Banco de Dados
-![postgresql](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![mysql](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![oracle](https://img.shields.io/badge/-oracle_developer-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;
+Atualmente mestrando em **Inteligência Artificial**, meu trabalho consiste em desenvolver arquiteturas de dados escaláveis e pipelines de alta performance. Combino minha vivência acadêmica com a prática de mercado para criar soluções técnicas robustas e bem documentadas, sempre priorizando a otimização de recursos e custos.
 
+- 🔭 **Atualmente:** Liderando projetos acadêmicos de Data Lakehouse e pesquisando Machine Learning.
+- 💼 **Experiência:** Pipelines ETL/ELT, Modelagem Dimensional (Star Schema) e Azure Synapse.
+- 🎓 **Formação:** Mestrando em IA (UFPB) | MBA em Big Data | Bacharel em Ciência da Computação.
+- 🏆 **Certificação:** Microsoft Certified: Azure Data Fundamentals (DP-900).
 
-## Cloud
-![amazonwebservices](https://img.shields.io/badge/-aws-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117&textColor=0D1117)&nbsp;
+---
 
-## Ferramentas
-![snowflake](https://img.shields.io/badge/-snowflake-0D1117?style=for-the-badge&logo=snowflake&labelColor=0D1117&textColor=0D1117)&nbsp;
-![dbt](https://img.shields.io/badge/-dbt-0D1117?style=for-the-badge&logo=dbt&labelColor=0D1117&textColor=0D1117)&nbsp;
-![apachespark](https://img.shields.io/badge/-apache_spark-0D1117?style=for-the-badge&logo=apachespark&labelColor=0D1117&textColor=0D1117)&nbsp;
-![apacheairflow](https://img.shields.io/badge/-apache_airflow-0D1117?style=for-the-badge&logo=apacheairflow&labelColor=0D1117&textColor=0D1117)&nbsp;
-![databricks](https://img.shields.io/badge/-databricks-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117&textColor=0D1117)&nbsp;
-![anaconda](https://img.shields.io/badge/-anaconda-0D1117?style=for-the-badge&logo=anaconda&labelColor=0D1117&textColor=0D1117)&nbsp;
-![oracle](https://img.shields.io/badge/-oracle_integrator_data-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&textColor=0D1117)&nbsp;
+### 🛠️ Stack Tecnológica
 
+#### ☁️ Cloud & Engenharia de Dados
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Synapse%20Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+#### 💻 Linguagens & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-<h2 align="left">Contatos</h2>
+#### 🗄️ Bancos de Dados & Armazenamento
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-4285F4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
-###
+#### ⚙️ DevOps & Ferramentas
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Scrum](https://img.shields.io/badge/Scrum-0056D2?style=for-the-badge&logo=scrum&logoColor=white)
 
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurrAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurrAlmeida&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,jupyter%20notebook"/>
+</div>
+
+---
+
+### 📫 Contato
 <div align="left">
   <a href="https://www.linkedin.com/in/arthurvalmeida/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://t.me/Arthur_Almeida1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="mailto:devarthuralmeida@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
 </div>
 
-###
+<br />
 
-<div>
-  <a href="https://github.com/ArthurrAlmeida">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ArthurrAlmeida&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurrAlmeida&layout=compact&theme=dark"/>
+<div align="center">
+  <i>"In God we trust, all others must bring data." — W. Edwards Deming</i>
 </div>
