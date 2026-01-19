@@ -46,7 +46,7 @@ Atualmente mestrando em **Inteligência Artificial**, meu trabalho consiste em d
 ### 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurrAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues,contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurrAlmeida&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,jupyter%20notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurrAlmeida&layout=compact&theme=tokyonight&langs_count=8&hide=html,css,jupyter%20notebook"/>
 </div>
 
 ---
