@@ -4,13 +4,13 @@
 
 ### 👋 Sobre Mim
 
-Sou **Engenheiro de Dados** focado no ecossistema **Microsoft Azure** e **Databricks**, e atuo também como **Professor Universitário** na área de Computação em Nuvem.
+Sou **Engenheiro de Dados** focado no ecossistema **Microsoft Azure** e **Databricks**, e atuo também como **Professor Universitário** na área de Computação.
 
-Atualmente mestrando em **Inteligência Artificial**, meu trabalho consiste em desenvolver arquiteturas de dados escaláveis e pipelines de alta performance. Combino minha vivência acadêmica com a prática de mercado para criar soluções técnicas robustas e bem documentadas, sempre priorizando a otimização de recursos e custos.
+Minha trajetória combina experiência profissional em **Business Intelligence** com projetos práticos de Engenharia de Dados, envolvendo integração de dados, desenvolvimento de pipelines ETL/ELT, processamento distribuído e arquiteturas Data Lakehouse. Busco desenvolver soluções escaláveis, eficientes e bem documentadas, aplicando tecnologias de nuvem e processamento de dados.
 
-- 🔭 **Atualmente:** Liderando projetos acadêmicos de Data Lakehouse e pesquisando Machine Learning.
-- 💼 **Experiência:** Pipelines ETL/ELT, Modelagem Dimensional (Star Schema) e Azure Synapse.
-- 🎓 **Formação:** Mestrando em IA (UFPB) | MBA em Big Data | Bacharel em Ciência da Computação.
+- 🔭 **Atualmente:** Desenvolvendo projetos de Engenharia de Dados com Azure, Databricks, PySpark e arquiteturas Lakehouse.
+- 💼 **Experiência:** Pipelines ETL/ELT, SQL, PL/SQL, Oracle, SQL Server, integração e qualidade de dados.
+- 🎓 **Formação:** MBA em Ciência de Dados e Big Data Analytics | Bacharel em Ciência da Computação.
 - 🏆 **Certificação:** Microsoft Certified: Azure Data Fundamentals (DP-900).
 
 ---
